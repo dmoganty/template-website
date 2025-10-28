@@ -85,7 +85,7 @@ The application expects the following content types in Strapi:
 Create a `.env.local` file with the following variables:
 
 ```env
-NEXT_PUBLIC_STRAPI_API_URL=https://cms-reach-common-qa.reachmobileplatform.com/api
+NEXT_PUBLIC_STRAPI_API_URL=https://cms-common-qa.example.com/api
 STRAPI_API_TOKEN=your_strapi_api_token_here
 ```
 
@@ -143,3 +143,4 @@ This is a demo application. Feel free to extend it with additional features like
 - Database integration
 - Email notifications
 - Advanced form validation
+
